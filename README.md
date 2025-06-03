@@ -14,7 +14,7 @@ There are some material websites for DIY homepages.
 
 <br />
 
-[![Young-Nights's GitHub stats](https://github-readme-stats.vercel.app/api?username=young-nights)](https://github.com/anuraghazra/github-readme-stats)
+[![YoungNights's GitHub stats](https://github-readme-stats.vercel.app/api?username=young-nights)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=young-nights)](https://github.com/anuraghazra/github-readme-stats)
 
 
