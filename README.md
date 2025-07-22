@@ -18,7 +18,6 @@ There are some material websites for DIY homepages.
 <!-- Gmail徽章链接 & 个人Gmail的填充链接 -->
 <!-- -->
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/young-nights)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:whitehonor1999@gmail.com)
 
 
 **Self-introduction:** 
