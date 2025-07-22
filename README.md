@@ -70,5 +70,3 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 </p>
 
 
-[![young-nights's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/young-nights/github-readme-stats)
-
