@@ -30,13 +30,13 @@ I thrive on getting deeply involved in my work, and whenever I’m learning some
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 👨🏽‍💻 I’m currently working on [Handle Path Oz](https://github.com/onimur/handle-path-oz);
-- 🌱 I’m currently learning Kotlin and Continuous Integration(CircleCI); 
-- 👯 I’m looking to collaborate on [Handle Path Oz](https://github.com/onimur/handle-path-oz) 🤝;
-- 🤔 I’m looking for help with Design Pattern 😭;
+- 👯 I previously worked in medical-device and water-sensor industries;
+- 👨🏽‍💻 I’m currently working on [CPR-Assessment-Comprehensive-Training-System](https://github.com/young-nights/CPR-Assessment-Comprehensive-Training-System);
+- 🌱 I’m currently learning Linux and Visual image recognition; 
 - 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I have a degree in civil engineering;
-- 📫 How to reach me: murillo_comino@hotmail.com;
+- 👯 I’m currently seeking like-minded partners to build something great together.🤝
+
+</br></br>
 
 **Languages and Tools:** 
 
