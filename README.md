@@ -19,7 +19,6 @@ There are some material websites for DIY homepages.
 <!-- -->
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/young-nights)
 
-
 **Self-introduction:** 
 <!-- 自我简介-->
 I thrive on getting deeply involved in my work, and whenever I’m learning something new, I instinctively help others solve related problems along the way. Ask me what’s even more exciting? Rolling up my sleeves and getting hands-on—whether that’s DIYing a black-tech gadget or building a practical embedded device. It’s not only a fantastic way to learn, but also turns every wild idea into a real, tangible creation. And that’s endlessly fun.
