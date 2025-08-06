@@ -36,9 +36,18 @@ There are some material websites for DIY homepages.
 <!-- Github徽章链接 & 个人Github主页跳转链接-->
 <!-- Gmail徽章链接 & 个人Gmail的填充链接 -->
 <!-- CSDN徽章链接 & 个人CSDN主页跳转链接 -->
-<!-- -->
+<!-- QQ mail徽章链接 & 个人QQ mail的填充链接 -->
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/young-nights)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:teatime1221hu@gamil.com)
 [![CSDN](https://img.shields.io/badge/-CSDN-C71D23?style=flat&logo=CSDN&logoColor=white)](https://blog.csdn.net/SSA_ming?type=blog)
+[![QQ-Mail](https://img.shields.io/badge/-QQ%20Mail-12B7F5?style=flat&logo=QQ&logoColor=white)](mailto:1845243912@qq.com)
+
+
+
+
+
+
+
 
 <!--   my-header-img -->
 ![](./images/header_.png)
