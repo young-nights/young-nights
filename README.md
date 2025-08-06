@@ -21,7 +21,7 @@ There are some material websites for DIY homepages.
 
 
 <!-- Your title -->
-### Hi there 👋 , I'm [HuZhiPeng](https://github.com/young-nights) 
+### Hi there 👋 , I'm [HU ZHIPENG](https://github.com/young-nights) 
 <p  align="right"><img src="https://visitor-badge.laobi.icu/badge?page_id=young-nights" alt="visitor badge"/></p>
 
 
