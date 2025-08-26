@@ -119,6 +119,10 @@ You can use this sites to get logos: https://www.vectorlogo.zone or https://simp
 <!--   my-ticker -->    
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=9333EA&center=true&vCenter=true&width=600&lines=Over+4+years+of+programming+experience;Always+learning+new+things;Machine+learning+enthusiast)](https://git.io/typing-svg)
 
+<!--   GitHub stats graph -->
+**📈 GitHub Activity Graph:**
+<!--   green snake -->
+![young-nights's github activity graph](https://raw.githubusercontent.com/young-nights/young-nights/output/github-contribution-grid-snake.svg)
 
 
 
