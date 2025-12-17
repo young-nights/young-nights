@@ -3,6 +3,10 @@
 
 name: generate animation
 on:
+
+  schedule:
+    # 每天 UTC 0:00 和 12:00 运行（相当于北京时间早上 8 点和晚上 8 点）
+    - cron: "0 0,12 * * *"
   # 手动触发（随时可更新）
   workflow_dispatch:
   # 当 push 到 main 分支时触发（你上传代码/修改仓库时）
